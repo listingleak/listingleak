@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- HOSTING: placeholder origin for GitHub Pages project site.
+     If Pages is served from repo root, keep these paths and change the origin
+     in HOSTING.md. Relative-style paths: /index.html /hvac-google-business-profile.html
+     /plumber-google-listing.html /roofer-google-listing.html /privacy.html -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://listingleak.github.io/site/index.html</loc></url>
+  <url><loc>https://listingleak.github.io/site/hvac-google-business-profile.html</loc></url>
+  <url><loc>https://listingleak.github.io/site/plumber-google-listing.html</loc></url>
+  <url><loc>https://listingleak.github.io/site/roofer-google-listing.html</loc></url>
+  <url><loc>https://listingleak.github.io/site/privacy.html</loc></url>
+</urlset>

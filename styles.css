@@ -160,3 +160,26 @@ footer p { margin: 0.35rem 0; }
 .page-hero p { margin: 0; max-width: 42rem; color: #d5dde4; }
 .prose p { max-width: 42rem; }
 .fine { font-size: 0.9rem; color: var(--muted); }
+.report { max-width: 52rem; }
+.report h2 { margin-top: 2.25rem; }
+.report table { width: 100%; border-collapse: collapse; font-size: 0.92rem; margin: 1rem 0 1.5rem; }
+.report th, .report td { border: 1px solid var(--line); padding: 0.55rem 0.65rem; text-align: left; vertical-align: top; }
+.report th { background: var(--navy); color: var(--cream); font-weight: 600; }
+.report tr:nth-child(even) td { background: var(--cream); }
+.report .meta { font-size: 0.92rem; color: var(--muted); }
+.report blockquote {
+  margin: 1rem 0;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid var(--brass);
+  background: var(--white);
+  color: var(--ink);
+}
+.unv { color: var(--danger); font-weight: 700; }
+.desc-box {
+  white-space: pre-wrap;
+  font-family: inherit;
+  background: var(--white);
+  border: 1px solid var(--line);
+  padding: 1rem 1.1rem;
+  font-size: 0.98rem;
+}

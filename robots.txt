@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://listingleak.github.io/site/sitemap.xml
+Disallow: /
